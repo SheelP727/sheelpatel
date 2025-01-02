@@ -51,3 +51,67 @@
 </body>
 </html>
 
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Header Section */
+header {
+    text-align: center;
+    padding: 2em;
+    background-color: #0077b6;
+    color: white;
+}
+
+.profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 1em;
+    border: 3px solid white;
+}
+
+/* Main Content */
+main {
+    padding: 2em;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+section {
+    margin-bottom: 2em;
+}
+
+h2 {
+    color: #0077b6;
+    border-bottom: 2px solid #0077b6;
+    display: inline-block;
+    padding-bottom: 0.3em;
+    margin-bottom: 1em;
+}
+
+a {
+    color: #0077b6;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 1em;
+    background-color: #333;
+    color: white;
+    margin-top: 2em;
+}
+
+
