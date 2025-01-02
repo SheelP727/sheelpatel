@@ -1,39 +1,28 @@
-<h2 align="left">Hi 👋! My name is [Your Name] and I'm a senior at the University of Pennsylvania, pursuing an accelerated Master's in Bioengineering with a double major in Neuroscience and Cognitive Science, and minors in Healthcare Management, Data Science, and Chemistry. I'm passionate about healthcare, sustainability, and global health!</h2>
+# 💫About Me :
+I'm current a pre-medical student at the University of Pennsylvania pursuing a Bachelor of Arts in Health and Societies. 
+My research at the Children's Hospital of Philadelphia (CHOP) focuses on ambulatory blood pressure monitoring in children and conducting manual data extraction. 
+I also serve as the Co-Founder of Vitality Labs, a company focused on providing innovative healthcare solutions through personalized wellness programs, using data-driven insights to optimize health and well-being.
+As founder of Our Beautiful Earth, I have lead environmental initiatives that have reached over 8,000 individuals in 8 different countries, equipping individuals with the toolkit needed to fight climate change. 
+In my free time, I love to do a range of activities included dancing for Penn Dhamaka (a nationally-ranked all-male fusion dance team), trying new forms of meditation, and engaging in long talks. 
 
-###
+I am passionate about climate change, advancing nephrology research, and investigating the intersection between sustainability and medicine. 
+I welcome opportunities to collaborate on these global health challenges, speak at events, and contribute to projects that create meaningful impact. 
+Feel free to connect with me at sheelp@sas.upenn.edu or via LinkedIn.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
+## 🌐Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the.real.sheel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sheelpatelnc) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@therealsheel1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/sheelpatel331) 
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=sheelp727&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sheelp727&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sheelp727&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=sheelp727&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
 
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/channel/yourchannel" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
-  <a href="https://www.instagram.com/yourusername" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a href="https://www.twitch.tv/yourusername" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /></a>
-  <a href="https://discord.com/users/yourid" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
