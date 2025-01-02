@@ -1,63 +1,29 @@
-import matplotlib.pyplot as plt
-import matplotlib.patches as patches
-from matplotlib.patheffects import withStroke
+<h1 align="center">Hi 👋, I'm Sheel Patel</h1>
+<h3 align="center">A passionate pre-medical student at the University of Pennsylvania</h3>
 
-# Function to apply text shadow
-def shadow_text(ax, x, y, text, fontsize, color, shadow_color, **kwargs):
-    shadow_effect = withStroke(linewidth=3, foreground=shadow_color, alpha=0.6)
-    ax.text(x, y, text, fontsize=fontsize, color=color, path_effects=[shadow_effect], **kwargs)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheelpatel727&label=Profile%20views&color=0e75b6&style=flat" alt="sheelpatel727" /> </p>
 
-# Create a figure and axis
-fig, ax = plt.subplots(figsize=(12, 6))
-ax.set_xlim(0, 12)
-ax.set_ylim(0, 6)
-ax.axis('off')
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheelpatel727" alt="sheelpatel727" /></a> </p>
 
-# Background gradient
-for i in range(100):
-    ax.add_patch(
-        patches.Rectangle(
-            (0, i * 0.06), 12, 0.06,
-            color=plt.cm.Blues(i / 100),
-            lw=0
-        )
-    )
+- 🔭 I’m currently working on [Vitality Labs, LLC](https://www.vitalitylabs.io/)
 
-# Add main text
-shadow_text(
-    ax, 1, 4.5,
-    "Hi there! I'm [Your Name]",
-    fontsize=30, color='white', shadow_color='black', fontweight='bold'
-)
-shadow_text(
-    ax, 1, 3.5,
-    "Senior @ University of Pennsylvania",
-    fontsize=20, color='white', shadow_color='black', fontweight='medium'
-)
+- 📝 I regularly write articles on [https://www.our-beautiful-earth.org/](https://www.our-beautiful-earth.org/)
 
-# Add bullets for key points
-key_points = [
-    "Accelerated Master's in Bioengineering",
-    "Research in TBI, epilepsy, and image segmentation",
-    "Founder of Our Beautiful Earth",
-    "Passionate about mental health & climate impacts"
-]
+- 💬 Ask me about **research, medicine, sustainability, and healthcare innovation**
 
-for i, point in enumerate(key_points):
-    shadow_text(
-        ax, 1.5, 3 - i * 0.5,
-        f"- {point}",
-        fontsize=18, color='white', shadow_color='black'
-    )
+- 📫 How to reach me **sheelp@sas.upenn.edu**
 
-# Footer
-shadow_text(
-    ax, 1, 0.5,
-    "Connect with me: sheelp@sas.upenn.edu",
-    fontsize=15, color='white', shadow_color='black'
-)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1XyhRsWNJAA9AtbRPr79KzfVq6WTYvzhBkyEAaRw6UH8/edit?usp=sharing](https://docs.google.com/document/d/1XyhRsWNJAA9AtbRPr79KzfVq6WTYvzhBkyEAaRw6UH8/edit?usp=sharing)
 
-# Save the graphic
-plt.savefig("github_profile_graphic.png", dpi=300, bbox_inches='tight')
-plt.show()
+- ⚡ Fun fact **I have been learning meditation since I was 6 years old!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sheelpatelnc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sheelpatelnc/" height="30" width="40" /></a>
+<a href="https://instagram.com/@the.real.sheel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@the.real.sheel" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@sheelpatel331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sheelpatel331" height="30" width="40" /></a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheelpatel727&show_icons=true&locale=en" alt="sheelpatel727" /></p>
+
 
