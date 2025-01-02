@@ -7,7 +7,7 @@ In my free time, I love to do a range of activities included dancing for Penn Dh
 
 I am passionate about climate change, advancing nephrology research, and investigating the intersection between sustainability and medicine. 
 I welcome opportunities to collaborate on these global health challenges, speak at events, and contribute to projects that create meaningful impact. 
-Feel free to connect with me at sheelp@sas.upenn.edu or via LinkedIn.
+Feel free to connect with me at sheelp@sas.upenn.edu.
 
 
 ## 🌐Socials
